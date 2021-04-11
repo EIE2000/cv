@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: rgb(255, 254, 253);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 70px 30px 50px 30px;
+}
+header{
+     max-width: 400px;
+     margin:50px auto; 
+     border-bottom: solid 5px grey;
+}
+.header-content{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.post-work{
+    border-bottom: solid 1px white;
+    max-width: 220px;
+}
+.E-history{  
+   text-align: right;
+}
+#skill{
+    border-bottom: solid 1px white;
+    max-width: 143px;
+}
+#extra{
+    border-bottom: solid 1px white;
+    max-width: 150px; 
+}
+
+
